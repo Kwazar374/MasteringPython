@@ -1,0 +1,5 @@
+title: Python Object Oriented Programming (OOP) - For Beginners
+author: Tech With Tim
+
+video link: https://youtu.be/JeznW_7DlB0
+channel link: https://www.youtube.com/@TechWithTim
