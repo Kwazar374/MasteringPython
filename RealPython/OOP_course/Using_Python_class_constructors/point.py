@@ -10,6 +10,4 @@ class Point:
 
     def __repr__(self) -> str:
         return f"{type(self).__name__}(x={self.x}, y={self.y})"
-    
-point = Point(21, 42)
-print(point)
+
